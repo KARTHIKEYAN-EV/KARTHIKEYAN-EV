@@ -4,6 +4,9 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/karthikeyanev)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-445f9d?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/karthikeyan2410450)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karthikeyanev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/karthikeyanev?trk=profile-badge">Karthikeyan EV</a></div>
+              
 <!--
 **KARTHIKEYAN-EV/KARTHIKEYAN-EV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
