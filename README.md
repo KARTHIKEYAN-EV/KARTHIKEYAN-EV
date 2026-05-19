@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?logo=vercel&style=for-the-badge)](https://yourportfolio.com)(https://karthikeyanev-portfolio.karthikeyanev-ev.workers.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?logo=vercel&style=for-the-badge)](https://karthikeyanev-portfolio.karthikeyanev-ev.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/karthikeyanev/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/karthikeyanev)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-445f9d?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/karthikeyan2410450)
